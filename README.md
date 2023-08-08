@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--
 **riyagoel930/riyagoel930** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +12,3 @@ Here are some ideas to get you started:
                 Gmail: riyagoel930@gmail.com
 - ⚡ Fun fact: Our greatest weakness lies in giving up. The most certain way to succeed is always to try just one more time.
                Hardwork never brings fatigue.It bring satisfaction
--->
